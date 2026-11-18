@@ -9,4 +9,4 @@
 
 ## 📈 GitHub Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=rathoretaruncodes&theme=react&hide_title=true&line=CFB53B&point=CFB53B)
+![](https://github-readme-activity-graph.vercel.app/graph?username=neocmds&theme=react&hide_title=true&line=CFB53B&point=CFB53B)
